@@ -1,3 +1,1 @@
-web: npm i && npm run develop
-
-
+web: npm start
